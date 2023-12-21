@@ -1,6 +1,8 @@
 # 遊戲簡介
 此遊戲是一款基於Pygame框架開發的互動式學習遊戲-貪食蛇拼字。它結合了顏色豐富的圖形界面和教育性質的遊戲玩法，旨在提供一個有趣且具啟發性的學習環境，並促進學生主動學習的動力。
 
+![蛇蛇](/document/picture.png)
+
 # 安裝指南
 1. 確保您的電腦上安裝了Python。
 2. 安裝Pygame庫：在終端或命令提示符中運行 `pip install pygame`，Pygame主要負責渲染並展示遊戲畫面。
@@ -21,7 +23,7 @@ review_wrong_ui.py
 ```
 6. 在遊戲代碼所在的目錄下打開終端或命令提示符，執行 `python main.py` 啟動遊戲。
 
-### 文件結構展示
+# 文件結構展示
 ```
 snake_spelling_game/  
 ├─ main.py  
