@@ -21,6 +21,20 @@ review_wrong_ui.py
 ```
 6. 在遊戲代碼所在的目錄下打開終端或命令提示符，執行 `python main.py` 啟動遊戲。
 
+### 文件結構展示
+```
+snake_spelling_game/  
+├─ main.py  
+├─ introduction_ui.py  
+├─ select_question_ui.py  
+├─ review_wrong_ui.py  
+├─ questions/  
+    ├─ apple.png  
+    ├─ banana.jpg  
+    ├─ carrot.jpeg  
+    ├─ ...
+```
+
 # 如何玩
 - 在啟動遊戲後，首先會出現遊戲規則和速度設置介面。
 - 根據屏幕上的指示進行操作，學習遊戲規則並設置您喜歡的速度。
