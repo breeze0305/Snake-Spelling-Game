@@ -1,7 +1,7 @@
 # 遊戲簡介
 此遊戲是一款基於Pygame框架開發的互動式學習遊戲-貪食蛇拼字。它結合了顏色豐富的圖形界面和教育性質的遊戲玩法，旨在提供一個有趣且具啟發性的學習環境，並促進學生主動學習的動力。
 
-<img src="/document/picture.png" alt="蛇" width="200" height="150">
+<img src="/document/picture.png" alt="蛇" width="400" height="300">
 
 
 # 安裝指南
