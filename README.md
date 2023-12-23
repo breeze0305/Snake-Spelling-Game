@@ -1,7 +1,7 @@
 # 遊戲簡介
 此遊戲是一款基於Pygame框架開發的互動式學習遊戲-貪食蛇拼字。它結合了顏色豐富的圖形界面和教育性質的遊戲玩法，旨在提供一個有趣且具啟發性的學習環境，並促進學生主動學習的動力。
 
-<img src="/document/picture.png" alt="蛇" width="400" height="300">
+<img src="/document/picture.png" alt="蛇" width="200" height="150">
 
 
 # 安裝指南
@@ -46,7 +46,7 @@ snake_spelling_game/
 
 
 # 內容說明
-- `main.py` 遊戲主程式，負責主要遊戲迴圈與呼叫其他介面。
-- `introduction_ui.py` 遊戲規則介面，展示操作說明和選擇遊戲困難度，負責回傳 __遊戲速度__ 和 __wifi連接狀態__。
-- `select_question_ui.py` 選擇題目介面，讀取`questions`資料夾內的檔案，並展示題目選項，可多選並返還list。
-- `review_wrong_ui.py` 回顧錯題介面，傳入錯題的list並顯示，點擊圖片即可收聽發音。
+- `main.py` 遊戲主程式-負責主要遊戲迴圈與呼叫其他介面。
+- `introduction_ui.py` 遊戲規則介面-展示操作說明和選擇遊戲困難度，負責回傳 __遊戲速度__ 和 __wifi連接狀態__。
+- `select_question_ui.py` 選擇題目介面-讀取`questions`資料夾內的檔案，並展示題目選項，可多選並返還list。
+- `review_wrong_ui.py` 回顧錯題介面-傳入錯題單字的list並顯示，點擊圖片即可收聽發音。
